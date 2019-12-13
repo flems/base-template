@@ -1,0 +1,8 @@
+@import "./plugins/normalize.scss";
+@import "./plugins/grid-flex.scss";
+@import "./modules/_header.scss";
+
+body {
+  background: $gray;
+  color: $black;
+}

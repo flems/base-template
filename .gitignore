@@ -1,0 +1,6 @@
+/node_modules
+/package-lock.json
+/htdocs/temp-files
+/htdocs/css/*.css
+/htdocs/js/es5
+/htdocs/img
